@@ -33,9 +33,6 @@
 
 
 
-<div align="center">
-  <img src="14.gif" width="1000" alt="gif">
-</div>
 
 
 
