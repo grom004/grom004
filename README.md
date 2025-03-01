@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there!</h1>
-💫 My name is Gleb<br>🔭 I'm 24 years<br>🎓 Diploma Specialist<br>🌱 Data Analyst, Data Scientist, ML engineer<br><br>
+💫 My name is Gleb<br>🔭 I'm 24 years old<br>🎓 Diploma Specialist<br>🌱 Data Analyst, Data Scientist, ML engineer<br><br>
 
 
 
@@ -31,9 +31,17 @@
    <img alt="github-snake" src="https://raw.githubusercontent.com/grom004/grom004/output/github-snake.svg" />
 </picture>
 
+
+
 <div align="center">
   <img src="14.gif" width="1000" alt="gif">
 </div>
+
+
+
+
+
+
 
    
 
