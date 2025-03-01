@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mll.webp" width="300" alt="My animation">
+  <img src="12.gif" width="1000" alt="My animation">
 </div>
 
 <h1 align="center">Hi there!</h1>
