@@ -1,4 +1,4 @@
-# Hi there!
+<h1 align="center">Hi there!</h1>
 💫 My name is Gleb<br>🔭 I'm 24 years<br>🎓 Diploma Specialist<br>🌱 Data Analyst, Data Scientist, ML engineer<br><br>
 
 
