@@ -1,6 +1,7 @@
 
 
-![GIF](14.gif)
+
+![GIF](13.gif)
 
 <h1 align="center">Hi there!</h1>
 💫 My name is Gleb<br>🔭 I'm 24 years old<br>🎓 Diploma Specialist<br>🌱 Data Analyst, Data Scientist, ML engineer<br><br>
