@@ -22,9 +22,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grom004/grom004/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grom004/grom004/output/github-snake.svg" />
-  <div align="center">
-      <img alt="github-snake" src="https://raw.githubusercontent.com/grom004/grom004/output/github-snake.svg" />
-      </div>
+   <img alt="github-snake" src="https://raw.githubusercontent.com/grom004/grom004/output/github-snake.svg" />
 </picture>
 
 
