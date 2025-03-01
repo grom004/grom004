@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="14.gif" width="1000" alt="My animation">
+  <img src="14.gif" width="1000" alt="gif">
 </div>
 
 <h1 align="center">Hi there!</h1>
