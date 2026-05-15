@@ -3,8 +3,8 @@
 
 ![GIF](13.gif)
 
-<h1 align="center">Hi there!</h1>
-<br><br>🌱 Data Analyst, Data Scientist, ML engineer<br><br>
+<h1 align="center">🌱 Data Analyst, Data Scientist, ML engineer</h1>
+
 
 
 
